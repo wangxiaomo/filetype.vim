@@ -1,0 +1,2 @@
+*filetype_vim.txt* For Vim
+Nothing.    *filetype_vim*
