@@ -24,6 +24,7 @@ if &ft !~ '\S'
         echomsg "FILETYPE DETECTED: " . ft
       endif
       exec "set ft=" . ft
+      break
     endif
   endfor
 endif
